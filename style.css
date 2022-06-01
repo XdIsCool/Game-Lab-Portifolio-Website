@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(rgb(20, 163, 210) 20%, pink 60%, lime 80%);
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#pingpongcourt{
+    background-color: red;
+    color: red;
+   
+}
+
+#myCarousel p{
+    color: white;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
